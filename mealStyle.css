@@ -1,0 +1,51 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10 px;
+    box-sizing: border-box;
+}
+
+div {
+    margin-left: 500px;
+    border-color: black;
+}
+
+html {
+    background-color: aliceblue;
+}
+
+button {
+    color: black;
+    background-color: burlywood;
+}
+
+input{
+    color:burlywood;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: burlywood;
+    font-size: xx-large;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: burlywood;
+    
+}
